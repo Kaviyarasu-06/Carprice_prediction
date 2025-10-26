@@ -1,0 +1,13 @@
+prefix=K:/end to end 2/end/Library
+exec_prefix=K:/end to end 2/end/Library
+libdir=K:/end to end 2/end/Library/lib
+sharedlibdir=K:/end to end 2/end/Library/lib
+includedir=K:/end to end 2/end/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
