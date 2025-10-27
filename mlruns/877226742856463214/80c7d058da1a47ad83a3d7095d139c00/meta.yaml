@@ -1,0 +1,14 @@
+artifact_uri: file:///k:/end%20to%20end%202/mlruns/877226742856463214/80c7d058da1a47ad83a3d7095d139c00/artifacts
+end_time: 1761586180353
+entry_point_name: ''
+experiment_id: '877226742856463214'
+lifecycle_stage: active
+run_id: 80c7d058da1a47ad83a3d7095d139c00
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761586180198
+status: 3
+tags: []
+user_id: kaviy

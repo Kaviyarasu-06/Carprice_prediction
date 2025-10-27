@@ -1,0 +1,14 @@
+artifact_uri: file:///k:/end%20to%20end%202/mlruns/877226742856463214/3e244e41fb544854a7f19cf36da3c82b/artifacts
+end_time: 1761586180192
+entry_point_name: ''
+experiment_id: '877226742856463214'
+lifecycle_stage: active
+run_id: 3e244e41fb544854a7f19cf36da3c82b
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761586179911
+status: 3
+tags: []
+user_id: kaviy

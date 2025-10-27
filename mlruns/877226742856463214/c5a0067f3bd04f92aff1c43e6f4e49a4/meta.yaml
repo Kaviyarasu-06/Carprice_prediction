@@ -1,0 +1,14 @@
+artifact_uri: file:///k:/end%20to%20end%202/mlruns/877226742856463214/c5a0067f3bd04f92aff1c43e6f4e49a4/artifacts
+end_time: 1761586587064
+entry_point_name: ''
+experiment_id: '877226742856463214'
+lifecycle_stage: active
+run_id: c5a0067f3bd04f92aff1c43e6f4e49a4
+run_name: AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761586586257
+status: 3
+tags: []
+user_id: kaviy
